@@ -1,0 +1,28 @@
+{
+  "name": "LIRI_osei",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri-app.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "inquirer": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oseithompson/LIRI_osei.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oseithompson/LIRI_osei/issues"
+  },
+  "homepage": "https://github.com/oseithompson/LIRI_osei#readme"
+}
